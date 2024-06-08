@@ -1,3 +1,6 @@
+Bartosz Pikutin 
+S24819
+
 #Kalkulator
 Bardzo możliwe że program nie będzie działa od razu po pobraniu go, ponieważ mam dziwnie ustawionego PyCharma, więc sugeruję stworzyć lokalnie nowy projekt a następnie przekopiować kod z main.py
 
